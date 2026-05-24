@@ -3,19 +3,29 @@
 <h3 align="center">CSE Student | Frontend Developer | AI & Web Development Enthusiast 🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;CSE+Student;AI+%26+Web+Development+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;CSE+Student;AI+%26+Web+Development+Enthusiast;Building+Modern+Web+Experiences&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-- 🎓 I'm a passionate CSE Student
+- 🎓 Passionate CSE Student
 - 💻 Learning Full Stack Web Development
-- 🤖 Interested in Artificial Intelligence & Modern Tech
-- 🚀 Building projects and improving my coding skills daily
-- 🌱 Currently exploring React & Python
-- ⚡ Love creating and learning new things
+- 🤖 Interested in Artificial Intelligence & Modern Technologies
+- 🚀 Building projects and improving coding skills daily
+- 🌱 Currently exploring React, JavaScript & Python
+- ⚡ Love creating modern and interactive websites
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+<a href="https://palagani-akhila.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white">
+</a>
+</p>
 
 ---
 
@@ -35,7 +45,7 @@
 
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
 
-<img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
@@ -93,6 +103,10 @@
 
 <a href="https://github.com/Akhila-Palagani24">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://palagani-akhila.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
 
 </p>
