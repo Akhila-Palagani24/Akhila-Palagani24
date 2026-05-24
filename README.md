@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Akhila</h1>
 
 <h3 align="center">CSE Student | Frontend Developer | AI & Web Development Enthusiast 🚀</h3>
@@ -109,4 +108,3 @@
 ---
 
 <h3 align="center">Thanks for visiting my profile ❤️</h3>
-```
