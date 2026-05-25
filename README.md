@@ -61,15 +61,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhila-Palagani24&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akhila-Palagani24&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akhila-Palagani24&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Akhila-Palagani24&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhila-Palagani24&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akhila-Palagani24&layout=compact&theme=tokyonight" />
 </p>
 ---
 
