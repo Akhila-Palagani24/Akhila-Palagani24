@@ -75,9 +75,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Akhila-Palagani24&theme=onedark&no-frame=true">
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Akhila-Palagani24&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
