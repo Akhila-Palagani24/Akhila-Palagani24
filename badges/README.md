@@ -1,11 +1,11 @@
 # 🏆 GSSoC 2026 Badges
 
-<p align="left">
+This folder contains achievement badges earned during GSSoC 2026 participation.
 
-<img src="badges/first-steps.png" width="120"/>
+These badges represent:
+- Profile completion
+- Contributor milestones
+- Community participation
+- Open-source contribution journey
 
-<img src="badges/profile-complete.png" width="120"/>
-
-<img src="badges/code-warrior.png" width="120"/>
-
-</p>
+The badges are used for GitHub profile showcase and portfolio enhancement.
