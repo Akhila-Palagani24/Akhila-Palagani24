@@ -73,11 +73,11 @@
 </p>
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akhila-Palagani24&theme=algolia&no-frame=true&margin-w=10" />
-</p>
+## 📊 GitHub Stats
 
+![Akhila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhila-Palagani24&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhila-Palagani24&layout=compact&theme=tokyonight)
 ---
 
 ## 📈 Contribution Graph
