@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Akhila Banner">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Akhila</h1>
 
@@ -8,14 +6,23 @@
 CSE Student | Frontend Developer | AI & Web Development Enthusiast 🚀
 </h3>
 
-## 🙋‍♀️ About Me
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Akhila Banner">
+</p>
 
-- 🎓 Passionate CSE Student
-- 💻 Learning Full Stack Web Development
-- 🤖 Interested in Artificial Intelligence & Modern Technologies
-- 🚀 Building projects and improving coding skills daily
-- 🌱 Currently exploring React, JavaScript & Python
-- ⚡ Love creating modern and interactive websites
+
+## ⚔️ The Way of the Developer (About Me)
+
+Exploring the ever-evolving world of technology, I am a passionate Computer Science student driven by curiosity, creativity, and continuous learning. I enjoy transforming ideas into impactful digital experiences and solving real-world problems through code.
+
+🥋 **Training In:** Full-Stack Web Development, Data Structures & Algorithms, and Modern Development Practices.
+
+🎯 **Current Focus:** Strengthening my skills in React, JavaScript, Python, and AI-powered applications.
+
+🚀 **Mission:** Building innovative projects, contributing to open source, and growing as a developer one challenge at a time.
+
+💡 **Philosophy:** *"Consistency beats perfection. Every bug is a lesson, and every project is a step forward."*
+
 
 ---
 
