@@ -108,4 +108,4 @@ Exploring the digital frontier as a passionate CSE student, turning ideas into r
   <i>"Learn. Build. Improve. Repeat."</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FF8C42&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F06A6A&height=120&section=footer"/>
