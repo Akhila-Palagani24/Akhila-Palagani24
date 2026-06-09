@@ -10,7 +10,7 @@ CSE Student | Frontend Developer | AI & Web Development Enthusiast 🚀
   <img src="./banner.png" width="100%" alt="Akhila Banner">
 </p>
 
-⚔️ The Way of the Developer
+<h2>⚔️ The Way of the Developer</h2>
 
 Exploring the digital frontier as a passionate CSE student, turning ideas into reality through code and continuous learning. Every challenge is an opportunity to grow.
 
