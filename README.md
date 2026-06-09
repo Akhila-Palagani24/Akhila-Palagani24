@@ -1,10 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm Akhila</h1>
+<h1 align="center">⛩️ Akhila Palagani</h1>
 
-<h3 align="center">
-CSE Student | Frontend Developer | AI & Web Development Enthusiast 🚀
-</h3>
+<p align="center">
+  <i>Building Today. Learning Forever.</i>
+</p>
 
 <p align="center">
   <img src="./banner.png" width="100%" alt="Akhila Banner">
