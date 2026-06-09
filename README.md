@@ -10,28 +10,32 @@ CSE Student | Frontend Developer | AI & Web Development Enthusiast 🚀
   <img src="./banner.png" width="100%" alt="Akhila Banner">
 </p>
 
+⚔️ The Way of the Developer
 
-## ⚔️ The Way of the Developer (About Me)
-
-Exploring the ever-evolving world of technology, I am a passionate Computer Science student driven by curiosity, creativity, and continuous learning. I enjoy transforming ideas into impactful digital experiences and solving real-world problems through code.
-
-🥋 **Training In:** Full-Stack Web Development, Data Structures & Algorithms, and Modern Development Practices.
-
-🎯 **Current Focus:** Strengthening my skills in React, JavaScript, Python, and AI-powered applications.
-
-🚀 **Mission:** Building innovative projects, contributing to open source, and growing as a developer one challenge at a time.
-
-💡 **Philosophy:** *"Consistency beats perfection. Every bug is a lesson, and every project is a step forward."*
-
+A passionate CSE student navigating the world of technology, building impactful projects and solving real-world problems through code.
+🥋 Training In: Full-Stack Development & AI.
+🎯 Current Focus: React, JavaScript & Open Source.
+🏯 Mission: Learn. Build. Improve. Repeat.
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Connect With Me
 
 <p align="center">
+
+<a href="https://www.linkedin.com/in/akhila-palagani-52b749321/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Akhila-Palagani24">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 <a href="https://palagani-akhila.lovable.app">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
+
+</p>
 </p>
 
 ---
@@ -100,23 +104,7 @@ Exploring the ever-evolving world of technology, I am a passionate Computer Scie
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/akhila-palagani-52b749321/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/Akhila-Palagani24">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://palagani-akhila.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white">
-</a>
-
-</p>
 
 ---
 
