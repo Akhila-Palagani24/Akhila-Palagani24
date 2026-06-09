@@ -8,9 +8,7 @@
 CSE Student | Frontend Developer | AI & Web Development Enthusiast 🚀
 </h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akhila-Palagani24/Akhila-Palagani24/main/developerGithub.png" width="100%">
-</p>
+
 
 ## 🙋‍♀️ About Me
 
