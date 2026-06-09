@@ -12,10 +12,11 @@ CSE Student | Frontend Developer | AI & Web Development Enthusiast 🚀
 
 ⚔️ The Way of the Developer
 
-A passionate CSE student navigating the world of technology, building impactful projects and solving real-world problems through code.
-🥋 Training In: Full-Stack Development & AI.
-🎯 Current Focus: React, JavaScript & Open Source.
-🏯 Mission: Learn. Build. Improve. Repeat.
+Exploring the digital frontier as a passionate CSE student, turning ideas into reality through code and continuous learning. Every challenge is an opportunity to grow.
+
+- 🥋 Training In: Full-Stack Development, DSA & AI.
+- 🎯 Current Focus: React, JavaScript, Python & Open Source.
+- 🏯 Mission: Learn, Build, Improve, Repeat.
 
 ---
 
