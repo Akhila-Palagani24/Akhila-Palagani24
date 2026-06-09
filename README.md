@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./README-assets/banner.png" width="100%" alt="Akhila Banner"/>
+  <img src="./banner.png" width="100%" alt="Akhila Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Akhila</h1>
@@ -7,8 +7,6 @@
 <h3 align="center">
 CSE Student | Frontend Developer | AI & Web Development Enthusiast 🚀
 </h3>
-
-
 
 ## 🙋‍♀️ About Me
 
