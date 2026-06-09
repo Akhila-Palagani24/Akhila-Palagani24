@@ -9,9 +9,8 @@ CSE Student | Frontend Developer | AI & Web Development Enthusiast 🚀
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;CSE+Student;AI+%26+Web+Development+Enthusiast;Building+Modern+Web+Experiences&center=true&width=500&height=45">
+  <img src="https://raw.githubusercontent.com/Akhila-Palagani24/Akhila-Palagani24/main/developerGithub.png" width="100%">
 </p>
----
 
 ## 🙋‍♀️ About Me
 
