@@ -103,18 +103,9 @@ Exploring the digital frontier as a passionate CSE student, turning ideas into r
 <img src="https://komarev.com/ghpvc/?username=Akhila-Palagani24&label=Profile%20Views&color=0e75b6&style=for-the-badge">
 </p>
 
----
-
-
-
----
-
-## 💡 Quote
 
 <p align="center">
-✨ "Consistency and curiosity are the keys to growth." ✨
+  <i>"Learn. Build. Improve. Repeat."</i>
 </p>
 
----
-
-<h3 align="center">Thanks for visiting my profile ❤️</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FF8C42&height=120&section=footer"/>
