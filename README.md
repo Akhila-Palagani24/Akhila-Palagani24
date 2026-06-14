@@ -20,24 +20,7 @@ Exploring the digital frontier as a passionate CSE student, turning ideas into r
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/akhila-palagani-52b749321/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/Akhila-Palagani24">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://palagani-akhila.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white">
-</a>
-
-</p>
-</p>
 
 ---
 
@@ -100,6 +83,26 @@ Exploring the digital frontier as a passionate CSE student, turning ideas into r
 <img src="https://komarev.com/ghpvc/?username=Akhila-Palagani24&label=Profile%20Views&color=0e75b6&style=for-the-badge">
 </p>
 
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/akhila-palagani-52b749321/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Akhila-Palagani24">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://palagani-akhila.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white">
+</a>
+
+</p>
+</p>
+
+---
 
 
 
