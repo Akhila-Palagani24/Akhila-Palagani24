@@ -85,9 +85,6 @@ Exploring the digital frontier as a passionate CSE student, turning ideas into r
 </p>
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhila-Palagani24&show_icons=true&theme=tokyonight)
 
 ## 📈 Contribution Graph
 
